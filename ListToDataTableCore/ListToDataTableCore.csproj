@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>jinyu成都</Authors>
+    <Product>ListToDataTableCore</Product>
+    <Company />
+    <Description>个人贡献，任意使用，希望保留注释</Description>
+    <PackageProjectUrl>https://github.com/jinyuttt/ListToDataTable.git</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>

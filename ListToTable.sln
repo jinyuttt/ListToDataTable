@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListToDataTable", "ListToDataTable\ListToDataTable.csproj", "{E5F5D598-3957-499C-B9D8-3EA56FD97B87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListToDataTableCore", "ListToDataTableCore\ListToDataTableCore.csproj", "{05304D09-AC12-4B36-AFB6-098FA1DDD823}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E5F5D598-3957-499C-B9D8-3EA56FD97B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5F5D598-3957-499C-B9D8-3EA56FD97B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5F5D598-3957-499C-B9D8-3EA56FD97B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05304D09-AC12-4B36-AFB6-098FA1DDD823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05304D09-AC12-4B36-AFB6-098FA1DDD823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05304D09-AC12-4B36-AFB6-098FA1DDD823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05304D09-AC12-4B36-AFB6-098FA1DDD823}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
