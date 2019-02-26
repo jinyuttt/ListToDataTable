@@ -1,0 +1,6 @@
+E:\Study\vs\webapi\ListToTable\ListToDataTable\bin\Debug\ListToDataTable.dll
+E:\Study\vs\webapi\ListToTable\ListToDataTable\bin\Debug\ListToDataTable.pdb
+E:\Study\vs\webapi\ListToTable\ListToDataTable\obj\Debug\ListToDataTable.csprojAssemblyReference.cache
+E:\Study\vs\webapi\ListToTable\ListToDataTable\obj\Debug\ListToDataTable.csproj.CoreCompileInputs.cache
+E:\Study\vs\webapi\ListToTable\ListToDataTable\obj\Debug\ListToDataTable.dll
+E:\Study\vs\webapi\ListToTable\ListToDataTable\obj\Debug\ListToDataTable.pdb
