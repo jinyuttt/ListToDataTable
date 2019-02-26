@@ -5,8 +5,9 @@
     <Authors>jinyu成都</Authors>
     <Product>ListToDataTableCore</Product>
     <Company />
-    <Description>个人贡献，任意使用，希望保留注释</Description>
+    <Description>采用emit将List&lt;T&gt;转换DataTable,个人贡献，任意使用，希望保留注释</Description>
     <PackageProjectUrl>https://github.com/jinyuttt/ListToDataTable.git</PackageProjectUrl>
+    <PackageReleaseNotes>采用emit将List&lt;T&gt;转换DataTable</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
