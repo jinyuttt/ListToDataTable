@@ -22,7 +22,7 @@ FormEntityToTable   （IList<T>扩展方法）
 至此该功能基本完成，应该没有需要修改的了  
 最后因为.net standard不支持emit实现，如果发布的版本支持以后将实现.net standard版本
 
-说明：从数据表转表的EMIT方法在项目阿光的扩展项目中Hikari.Integration.Models.Emit;就不再单独列出来了，可以自己使用源码
+说明：从数据表转表的emit方法在项目Hikari的扩展项目Hikari.Integration.Models.Emit;就不再单独列出来了，可以自己使用源码
 
 
 
