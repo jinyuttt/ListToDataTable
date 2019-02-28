@@ -12,7 +12,8 @@ namespace ListToDataTable
         [DataField("PersonName")]
         public string Name { get; set; }
        
-        public int Age { get; set; }
+        public int? Age { get; set; }
+
         public int Score { get; set; }
 
         [ColumnType(typeof(int))]

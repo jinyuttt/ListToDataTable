@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
@@ -8,7 +8,7 @@
     <Description>采用emit将List&lt;T&gt;转换DataTable,个人贡献，任意使用，希望保留注释</Description>
     <PackageProjectUrl>https://github.com/jinyuttt/ListToDataTable.git</PackageProjectUrl>
     <PackageReleaseNotes>采用emit将List&lt;T&gt;转换DataTable</PackageReleaseNotes>
-    <Version>1.0.1</Version>
+    <Version>1.2.0</Version>
   </PropertyGroup>
 
 </Project>
